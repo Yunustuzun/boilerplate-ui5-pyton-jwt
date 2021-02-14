@@ -1,0 +1,7 @@
+<mvc:View displayBlock="true" 
+    xmlns="sap.m" 
+    xmlns:mvc="sap.ui.core.mvc">
+
+    <mvc:HTMLView viewName="boiler.ui5.jwt.view.Login">
+    </mvc:HTMLView>
+</mvc:View>

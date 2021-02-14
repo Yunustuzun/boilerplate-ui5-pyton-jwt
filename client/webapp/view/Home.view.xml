@@ -1,0 +1,15 @@
+<mvc:View controllerName="boiler.ui5.jwt.controller.Home" xmlns="sap.m" xmlns:f="sap.f"  xmlns:mvc="sap.ui.core.mvc" height="100%">
+
+	<Page showHeader="true" class="homePage">
+		<customHeader>
+			<f:ShellBar title="OpenUI5 JWT Based Authentication" showCopilot="true">
+				<f:profile>
+					<f:Avatar initials="{ path: 'userModel>/NameSurname' , formatter:'.formatInitial' }" />
+				</f:profile>
+				<f:additionalContent>
+					<OverflowToolbarButton icon="sap-icon://log" text="Logout" tooltip="Çıkış Yap" press="onSignout" class="sapUiSmallMarginEnd" />
+				</f:additionalContent>
+			</f:ShellBar>
+		</customHeader>
+	</Page>
+</mvc:View>
