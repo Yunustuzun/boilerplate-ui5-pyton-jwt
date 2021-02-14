@@ -31,3 +31,9 @@ This is an OpenUI5 & Python Flask template app that demonstrates the basic usage
 -   `server/api/auth.py`
 -   `client/webapp/class/User.js`  
 -   `client/webapp/class/Backend.js` 
+
+### Resources 
+-   [JWT](https://jwt.io/)  
+-   [Python Flask](https://flask.palletsprojects.com/en/1.1.x/)
+-   [Open UI5](https://openui5.hana.ondemand.com/) 
+-   [Real Python](https://realpython.com/)
