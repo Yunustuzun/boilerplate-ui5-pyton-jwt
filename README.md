@@ -1,5 +1,5 @@
 #   Python Flask & OpenUI5 JWT Authentication template
-This is an OpenUI5 & Python Flask template app that demonstrates the basic usage of JWT Based Authentication  with Python Flask & OpenUI5 
+This is an OpenUI5 & Python Flask template app that demonstrates the basic usage of JWT Based Authentication.
 
 ## Requirments
 - Python 3
